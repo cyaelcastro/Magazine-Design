@@ -10,3 +10,8 @@ body{
     grid-template-columns: 120px 100px 215px 10px 215px 10px 135px 75px;
     grid-template-rows: 96px 55px 230px 10px 52px 10px 218px 10px 80px 13px 92px 50px 118px;
 }
+
+.image-container1{
+    grid-column: 3 / 4;
+    grid-row: 2 / 4;
+}
