@@ -3,3 +3,10 @@ body{
     margin: 0;
     background-image: linear-gradient(to right bottom, #182a62, #004e87, #007192, #009081, #33ab5f);
 }
+
+.grid-container{
+    display: grid;
+    width: 880px;
+    grid-template-columns: 120px 100px 215px 10px 215px 10px 135px 75px;
+    grid-template-rows: 55px 230px 10px 52px 10px 218px 10px 80px 13px 92px 50px;
+}
