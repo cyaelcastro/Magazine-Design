@@ -94,3 +94,8 @@ body{
     grid-column: 5 / 9;
     grid-row: 5 / 8;
 }
+
+.text-container3{
+    grid-column: 1 / 6;
+    grid-row: 11 / 14;
+}
