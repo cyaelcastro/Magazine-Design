@@ -68,6 +68,10 @@ body{
 .image-container7{
     grid-column: 2 / 4;
     grid-row: 9 / 13;
+    background-image: url("./assets/landscape-photo4.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .image-container8{
