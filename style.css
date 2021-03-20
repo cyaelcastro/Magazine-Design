@@ -30,3 +30,8 @@ body{
     grid-column: 7 / 9;
     grid-row: 7 / 10;
 }
+
+.image-container5{
+    grid-column: 5 / 6;
+    grid-row: 11 / 13;
+}
