@@ -77,4 +77,8 @@ body{
 .image-container8{
     grid-column: 1 / 4;
     grid-row: 5 / 8;
+    background-image: url("./assets/landscape-photo5.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
