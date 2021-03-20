@@ -45,3 +45,8 @@ body{
     grid-column: 2 / 4;
     grid-row: 9 / 13;
 }
+
+.image-container8{
+    grid-column: 1 / 4;
+    grid-row: 5 / 8;
+}
