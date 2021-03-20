@@ -85,6 +85,11 @@ body{
     background-repeat: no-repeat;
 }
 
+span{
+    font-size: 15rem;
+    color: rgba(241, 162, 8, 0.8);
+}
+
 .text-container1{
     grid-column: 1 / 4;
     grid-row: 1 / 4;
