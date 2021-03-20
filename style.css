@@ -84,3 +84,8 @@ body{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.text-container1{
+    grid-column: 1 / 4;
+    grid-row: 1 / 4;
+}
